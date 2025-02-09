@@ -19,3 +19,12 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.procreate_hero{
+  background-image: url("../asset/procreate/procreate-hero_en.jpg");
+  background-repeat: no-repeat;  
+  background-position: left;
+  background-size: cover;
+  
+}
+

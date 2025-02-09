@@ -1,7 +1,11 @@
-export default function Page() {
+import GlobalNavBar from "@/components/globalNavBar";
+
+export default function ProcretePage() {
   return (
     <section>
-      <h2 className="">Sinnn</h2>
+      <div className="procreate_hero h-screen">
+        <GlobalNavBar/>
+      </div>
     </section>
   );
 }
